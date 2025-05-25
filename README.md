@@ -61,3 +61,5 @@ An additional challenge includes stitching **three overlapping images** to form 
 ┣ 📄 README.md ← This file
 
 ┣ 📓 mosaics.ipynb ← Main implementation notebook
+
+┣ 📁 materials/ ← Input images (e.g., view1.jpg, view2.jpg)
