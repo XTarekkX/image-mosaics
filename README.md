@@ -63,3 +63,21 @@ An additional challenge includes stitching **three overlapping images** to form 
 ┣ 📓 mosaics.ipynb ← Main implementation notebook
 
 ┣ 📁 materials/ ← Input images (e.g., view1.jpg, view2.jpg)
+
+## 🖼️ Example Images
+
+### Original Images
+| ![pano_image1](materials/pano_image1.jpg) | ![pano_image2](materials/pano_image2.jpg) |
+|:-----------------------------------------:|:-----------------------------------------:|
+| pano_image1.jpg                           | pano_image2.jpg                           |
+
+| ![shanghai-21](materials/shanghai-21.png) | ![shanghai-22](materials/shanghai-22.png) | ![shanghai-23](materials/shanghai-23.png) |
+|:-------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
+| shanghai-21.png                            | shanghai-22.png                            | shanghai-23.png                            |
+
+### Final Result
+| ![3 stitches result](3 stitches result.png) |
+|:--------------------------------------------------:|
+| 3 stitches result.png                               |
+
+---
