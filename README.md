@@ -60,4 +60,4 @@ An additional challenge includes stitching **three overlapping images** to form 
 📁 image-mosaics/
 ┣ 📄 README.md ← This file
 
-┣ 📓 image_mosaics.ipynb ← Main implementation notebook
+┣ 📓 mosaics.ipynb ← Main implementation notebook
