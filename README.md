@@ -76,7 +76,7 @@ An additional challenge includes stitching **three overlapping images** to form 
 | shanghai-21.png                            | shanghai-22.png                            | shanghai-23.png                            |
 
 ### Final Result
-| ![3 stitches result](3 stitches result.png) |
+| ![3 stitches result](https://raw.githubusercontent.com/XTarekkX/image-mosaics/main/3%20stitches%20result.png) |
 |:--------------------------------------------------:|
 | 3 stitches result.png                               |
 
